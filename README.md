@@ -141,24 +141,43 @@ Pooling Types:	Max
 
 
 Bibliography
+<br>
 ●	Seong, S. (2018, June 12). Geometric Convolutional Neural Network for Analyzing Surface-Based Neuroimaging Data. Frontiers. https://www.frontiersin.org/articles/10.3389/fninf.2018.00042/full.
+<br>
 ●	Xie, S., & Hu, H. (2017, January 24). Facial expression recognition with FRR-CNN. Retrieved from https://digital-library.theiet.org/content/journals/10.1049/el.2016.4328#C6
+<br>
 ●	Dlaptev. (n.d.). Dlaptev/ti-pooling. Retrieved May 23, 2021, from https://github.com/dlaptev/TI-pooling#:~:text=TI%2Dpooling%20is%20a%20simple,(CNN)%20transformation%2Dinvariant
+<br>
 ●	Laptev, D., Savinov, N., Buhmann, J., & Pollefeys, M. (2016, September 22). TI-POOLING: Transformation-invariant pooling for feature learning in convolutional neural networks. Retrieved May 23, 2021, from https://arxiv.org/abs/1604.06318
+<br>
 ●	Ujjwalkarn. (2017, May 29). An intuitive explanation of convolutional neural networks. Retrieved May 23, 2021, from https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+<br>
 ●	Library for end-to-end machine learning. (n.d.). Retrieved May 23, 2021, from https://e2eml.school/how_convolutional_neural_networks_work.html
+<br>
 ●	A basic introduction to neural networks. (n.d.). Retrieved May 23, 2021, from http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html
+<br>
 ●	Deshpande, A. (n.d.). A beginner's guide to Understanding convolutional neural networks. Retrieved May 23, 2021, from https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+<br>
 ●	Kim, J. (2017). Efficient facial expression recognition algorithm based on hierarchical deep neural network structure. Retrieved May 23, 2021, from https://ieeexplore.ieee.org/document/8673885
+<br>
 ●	[10] Woodford, C. (2020, June 17). How neural networks work - a simple introduction. Retrieved May 23, 2021, from http://www.explainthatstuff.com/introduction-to-neural-networks.html
+<br>
 ●	Ahirwar, K. (2017, November). Everything you need to know about Neural Networks. Retrieved from https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491 
+<br>
 ●	Aishwarya, S. (2020, May 08). Introduction to neural Network: Convolutional neural network. Retrieved May 23, 2021, from http://www.analyticsvidhya.com/blog/2020/02/mathematics-behind-convolutional-neural-network/
+<br>
 ●	Saravanan, D. (2020, October 30). A gentle introduction to math behind neural networks. Retrieved May 23, 2021, from https://towardsdatascience.com/introduction-to-math-behind-neural-networks-e8b60dbbdeba
+<br>
 ●	Skalski, P. (2019, April 14). Gentle dive into math behind convolutional neural networks. Retrieved May 23, 2021, from https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9
+<br>
 ●	Skalski, P. (2020, February 16). Deep dive into math behind deep networks. Retrieved May 23, 2021, from https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
+<br>
 ●	Deeplizard. (n.d.). Loss in a neural Network explained. Retrieved May 24, 2021, from https://deeplizard.com/learn/video/Skc8nqJirJg
+<br>
 ●	Sharma, S. (2019, October 11). What the hell is Perceptron? Retrieved May 24, 2021, from https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53
+<br>
 ●	Tóth, B. (2018, August 13). How do forward and backward propagation work? Retrieved May 24, 2021, from https://tech.trustpilot.com/forward-and-backward-propagation-5dc3c49c9a05
+<br>
 ●	K., H. M. (2019, November 03). Backpropagation step by step. Retrieved May 24, 2021, from https://hmkcode.com/ai/backpropagation-step-by-step/#:~:text=Backpropagation%2C%20short%20for%20%E2%80%9Cbackward%20propagation,proceeds%20backwards%20through%20the%20network.
 
 
